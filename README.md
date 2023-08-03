@@ -1,16 +1,35 @@
-# flutter_task_listing_application
+# Task Listing Flutter App - Readme
 
-Task Listing App
+![Task Listing Flutter App](app_screenshot.png)
+
+## Overview
+
+The Task Listing Flutter App is a mobile application developed by Mohammad Ashfaq Ur Rahman. The app allows users to manage their daily tasks, helping them stay organized and focused on their goals. With a user-friendly interface and intuitive design, the app provides a seamless experience for creating, editing, and marking tasks as complete.
+
+## Features
+
+- Create new tasks with title and description.
+- Set due dates and priorities for tasks.
+- Mark tasks as completed.
+- Edit and update task details.
+- View all tasks in a list format.
+- Filter tasks based on completion status and priority.
+- User authentication for secure access (optional).
+
+## Technologies Used
+
+- Flutter: The app is developed using the Flutter framework, allowing for a cross-platform experience on both Android and iOS devices.
+- Dart: The programming language used for developing the Flutter app.
+- Firebase (optional): Firebase can be integrated for user authentication and data storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Task Listing Flutter App locally on your machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Install Flutter: If you haven't installed Flutter yet, follow the installation guide from the official Flutter website: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone the repository: Use `git clone` to clone the project repository to your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/ashfaqfardin/flutter_task_listing_application.git
+```
