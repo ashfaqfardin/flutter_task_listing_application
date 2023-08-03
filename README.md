@@ -15,7 +15,6 @@ The Task Listing Flutter App is a mobile application developed by Mohammad Ashfa
 
 - Flutter: The app is developed using the Flutter framework, allowing for a cross-platform experience on both Android and iOS devices.
 - Dart: The programming language used for developing the Flutter app.
-- Firebase (optional): Firebase can be integrated for user authentication and data storage.
 
 ## Getting Started
 
