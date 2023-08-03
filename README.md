@@ -9,12 +9,7 @@ The Task Listing Flutter App is a mobile application developed by Mohammad Ashfa
 ## Features
 
 - Create new tasks with title and description.
-- Set due dates and priorities for tasks.
-- Mark tasks as completed.
-- Edit and update task details.
 - View all tasks in a list format.
-- Filter tasks based on completion status and priority.
-- User authentication for secure access (optional).
 
 ## Technologies Used
 
@@ -33,3 +28,11 @@ To run the Task Listing Flutter App locally on your machine, follow these steps:
 ```
 git clone https://github.com/ashfaqfardin/flutter_task_listing_application.git
 ```
+
+## Useful Resources to Build This App
+
+1. [Flutter create new screen](https://stackoverflow.com/search?q=flutter+create+new+screen)
+2. [Flutter add button action](https://stackoverflow.com/search?q=flutter+add+button+action)
+3. [Flutter ListView builder](https://stackoverflow.com/search?q=flutter+listview+builder)
+4. [Flutter TextField validation](https://stackoverflow.com/search?q=flutter+textfield+validation)
+5. [Flutter navigate between screens](https://stackoverflow.com/search?q=flutter+navigate+between+screens)
