@@ -1,4 +1,4 @@
-# Task Listing Flutter App - Readme
+# Task Listing Flutter App
 
 ![Task Listing Flutter App](app_screenshot.png)
 
