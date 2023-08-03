@@ -3,6 +3,8 @@ import 'package:flutter_task_listing_application/widgets/task_card.dart';
 import 'package:flutter_task_listing_application/scenes/add_task_screen.dart';
 
 class ListTask extends StatefulWidget {
+  const ListTask({super.key});
+
   @override
   State<ListTask> createState() => _ListTaskState();
 }

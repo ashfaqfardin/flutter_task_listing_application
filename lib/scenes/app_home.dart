@@ -30,7 +30,7 @@ class AppHome extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                Navigator.of(context).push(MaterialPageRoute(builder: (context) => ListTask()));
+                Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ListTask()));
               },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.black87,

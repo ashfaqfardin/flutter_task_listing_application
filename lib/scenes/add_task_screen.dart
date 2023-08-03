@@ -4,6 +4,8 @@ class AddTaskScreen extends StatelessWidget {
   final TextEditingController _taskNameController = TextEditingController();
   final TextEditingController _taskDetailsController = TextEditingController();
 
+  AddTaskScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
